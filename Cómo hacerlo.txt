@@ -1,0 +1,7 @@
+1. Crear una carpeta por programa
+
+2. Grabarle un audio explicando el programa EN PYTHON: "Créame un Spec Driven" y 
+al final decir SIEMPRE: 
+"si tienes alguna duda me lo preguntas, y NO INVENTES".
+
+3. Ejecutar el programa en VScode.
